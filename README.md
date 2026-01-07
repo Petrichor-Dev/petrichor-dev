@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-🚩 I’m currently working on:<br>Building SaaS products,  and scalable applications using Next.js, React Native & Laravel.<br><br>👯 I’m looking to collaborate on:<br>Startup ideas, SaaS projects, AI integrations, and open-source tools that solve real business problems.<br><br>🤝 I’m looking for help with:<br>Product validation, growth strategy, and scaling SaaS products to the next level.<br><br>🌱 I’m currently learning:<br>System design, AI agents, vector databases, and SaaS monetization strategies.<br><br>⚡ Fun fact:<br>I’m obsessed with building products that make money while I sleep 😄<br>
+🚩 I’m currently working on:<br>Building SaaS products,  and scalable applications using Next.js, React Native & Laravel.<br><br>👯 I’m looking to collaborate on:<br>Startup ideas, SaaS projects, AI integrations, and open-source tools that solve real business problems.<br><br>🤝 I’m looking for help with:<br>Product validation, growth strategy, and scaling SaaS products to the next level.<br><br>🌱 I’m currently learning:<br>System design, AI agents, and SaaS monetization strategies.<br><br>⚡ Fun fact:<br>I’m obsessed with building products that make money while I sleep 😄<br>
 
 
 # 💻 Tech Stack:
